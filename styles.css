@@ -3,11 +3,7 @@ body {
 }
 
 h1 {
-<<<<<<< HEAD
-    color: green;
-=======
-    color: red;
->>>>>>> feature-auth
+color: purple;
 }
 
 p {
